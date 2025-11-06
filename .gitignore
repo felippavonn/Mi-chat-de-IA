@@ -1,12 +1,12 @@
 # Ignorar todos los archivos con extensión .txt
 *.txt
 
-# Ignorar el archivo preguntas.html puntualmente
+# Ignorar archivo puntual
 preguntas.html
 
-# Ignorar la carpeta de capturas y la carpeta .env si existieran
+# Ignorar carpetas de capturas y variables
 capturas_de_pantallas
 .env
 
-# Ignorar la carpeta .streamlit (porque tiene claves)
+# Ignorar la carpeta de configuraciones y claves
 .streamlit
