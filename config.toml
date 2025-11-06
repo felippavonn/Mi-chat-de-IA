@@ -1,0 +1,10 @@
+[theme]
+base="light"
+
+# Colores principales
+primaryColor="#FBE5E5"          # Amarillo Pikachu (botones inputs)
+backgroundColor="#C0EBF5"       # Fondo general, amarillo muy claro
+secondaryBackgroundColor="#E6FFFF" # Sidebar / widgets, amarillo suave
+textColor="#31333F"             # Texto principal (oscuro para leer bien)
+font="sans serif"                # Tipografía limpia y moderna
+
